@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **beginner projects.**
 
-- 🤝 I’m looking for help with **upgrading my programming skills, mindset and lading a role in software development.**
+- 🤝 I’m looking for help with **upgrading my programming skills, mindset and landing a role in software development.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SteveConyers](https://github.com/SteveConyers)
 
