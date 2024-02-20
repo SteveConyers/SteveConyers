@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://github.com/SteveConyers/My-Experiences.git](https://github.com/SteveConyers/My-Experiences.git)
 
-- ⚡ Fun fact **I have an identical twin brother and I am older than I look.**
+- ⚡ Fun fact **I have an identical twin brother.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
