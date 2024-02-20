@@ -1,23 +1,23 @@
-<h1 align="center">Hi 👋, I'm Steven Conyers</h1>
-<h3 align="center">An Aspiring Software Developer with Tech Skills</h3>
+<h1 align="center">Greeting, my name is Steven Conyers</h1>
+<h3 align="center">I am a former ERP specialist and former Tech Support Specialist, who is an Aspiring Software Developer.</h3>
 
-- 🔭 I’m currently working on **building out my portfolio**
+- 🔭 I’m currently working on **building out my portfolio to show my programming skills**
 
-- 🌱 I’m currently learning **Github and revisiting all the languages I learned from college.**
+- 🌱 I’m currently learning **how to use Github and all that it entails.**
 
-- 👯 I’m looking to collaborate on **beginner projects.**
+- 👯 I’m looking to collaborate on **beginner to mid-level projects.**
 
-- 🤝 I’m looking for help with **upgrading my programming skills, mindset and landing a role in software development.**
+- 🤝 I’m looking for help with **upgrading my programming skills, mindset and how to land a role in Software Development.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SteveConyers](https://github.com/SteveConyers)
 
-- 💬 Ask me about **Anything related to myself, my education or tech experience**
+- 💬 Ask me about **anything related to myself, my education or tech support experience.**
 
 - 📫 How to reach me **steve.conyers4@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/SteveConyers/My-Experiences.git](https://github.com/SteveConyers/My-Experiences.git)
 
-- ⚡ Fun fact **I have an identical twin brother.**
+- ⚡ Fun fact **I have an identical twin brother and I am older than I look.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
