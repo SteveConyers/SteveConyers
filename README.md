@@ -1,9 +1,9 @@
-<h1 align="center">Greeting, my name is Steven Conyers</h1>
-<h3 align="center">I am a former ERP specialist and former Tech Support Specialist, who is an Aspiring Software Developer.</h3>
+<h1 align="center">Greetings, my name is Steven Conyers</h1>
+<h3 align="center">I am an aspiring Software Developer, who work as a ERP Specialist and Technical Support Specialist.</h3>
 
 - 🔭 I’m currently working on **building out my portfolio to show my programming skills**
 
-- 🌱 I’m currently learning **how to use Github and all that it entails.**
+- 🌱 I’m currently learning **how to use Github and more on front-end development.**
 
 - 👯 I’m looking to collaborate on **beginner to mid-level projects.**
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SteveConyers](https://github.com/SteveConyers)
 
-- 💬 Ask me about **anything related to myself, my education or tech support experience.**
+- 💬 Ask me about **anything related to myself, my education or tech experience.**
 
 - 📫 How to reach me **steve.conyers4@gmail.com**
 
