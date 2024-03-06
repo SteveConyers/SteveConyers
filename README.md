@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **upgrading my programming skills, mindset and how to land a role in Software Development.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SteveConyers](https://github.com/SteveConyers)
+- 👨‍💻 All of my projects are available at [https://github.com/SteveConyers](https://github.com/SteveConyers) and uploaded weekly.
 
 - 💬 Ask me about **anything related to myself, my education or tech experience.**
 
