@@ -1,17 +1,17 @@
 <h1 align="center">Greetings, my name is Steven Conyers</h1>
-<h3 align="center">I am an aspiring Software Developer, who work as a ERP Specialist and Technical Support Specialist.</h3>
+<h3 align="center">I am for ERP Specialist and former Technical Support Specialist.</h3>
 
 - 🔭 I’m currently working on **building out my portfolio to show my programming skills**
 
-- 🌱 I’m currently learning **how to use Github and more on front-end development.**
+- 🌱 I’m currently learning **how to use Github more in debth.**
 
 - 👯 I’m looking to collaborate on **beginner to mid-level projects.**
 
-- 🤝 I’m looking for help with **upgrading my programming skills, mindset and how to land a role in Software Development.**
+- 🤝 I’m looking for help with **upgrading my programming skills, mindset as well as landing a role in Software Development.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SteveConyers](https://github.com/SteveConyers) and uploaded weekly.
+- 👨‍💻 All of my projects are available here on my GitHub.
 
-- 💬 Ask me about **anything related to myself, my education or tech experience.**
+- 💬 Ask me about **anything related to myself, my education, my tech experience or computer hardware.**
 
 - 📫 How to reach me **steve.conyers4@gmail.com**
 
@@ -22,8 +22,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/thestevenc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thestevenc" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/steven-conyers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="steven-conyers" height="30" width="40" /></a>
-<a href="https://instagram.com/tforty187" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tforty187" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/steveconyers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="steven-conyers" height="30" width="40" /></a>
+<a href="https://instagram.com/steve.tech_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tforty187" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
