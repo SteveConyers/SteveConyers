@@ -1,5 +1,5 @@
 <h1 align="center">Greetings, my name is Steven Conyers</h1>
-<h3 align="center">I am for ERP Specialist and former Technical Support Specialist.</h3>
+<h3 align="center">I am former ERP Specialist and former Technical Support Specialist.</h3>
 
 - 🔭 I’m currently working on **building out my portfolio to show my programming skills**
 
@@ -14,8 +14,6 @@
 - 💬 Ask me about **anything related to myself, my education, my tech experience or computer hardware.**
 
 - 📫 How to reach me **steve.conyers4@gmail.com**
-
-- 📄 Know about my experiences [https://github.com/SteveConyers/My-Experiences.git](https://github.com/SteveConyers/My-Experiences.git)
 
 - ⚡ Fun fact **I have an identical twin brother.**
 
