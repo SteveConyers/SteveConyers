@@ -1,21 +1,17 @@
-<h1 align="center">Greetings, my name is Steven Conyers</h1>
-<h3 align="center">I am former ERP Specialist and former Technical Support Specialist.</h3>
+<h1 align="center">Greetings, my name is Steven</h1>
+<h3 align="center">I am currently a IT Help Desk Support Analyst with three years experience and I also hold an Associates in Software Development.</h3>
 
-- 🔭 I’m currently working on **building out my portfolio to show my programming skills**
+- 🔭 I’m currently working on **building my programming and technical skills.**
 
 - 🌱 I’m currently learning **how to use Github more in debth.**
 
-- 👯 I’m looking to collaborate on **beginner to mid-level projects.**
+- 🤝 I’m looking for help with **upgrading my programming mindset as well as landing a role in Software Development.**
 
-- 🤝 I’m looking for help with **upgrading my programming skills, mindset as well as landing a role in Software Development.**
+- 👨‍💻 All of my projects are available **here on GitHub and showcase my solid fodation in multiple languages.**
 
-- 👨‍💻 All of my projects are available here on my GitHub.
-
-- 💬 Ask me about **anything related to myself, my education, my tech experience or computer hardware.**
+- 💬 Ask me about **anything related to myself, my education, my passion for software development or computer hardware.**
 
 - 📫 How to reach me **steve.conyers4@gmail.com**
-
-- ⚡ Fun fact **I have an identical twin brother.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
