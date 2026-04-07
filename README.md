@@ -1,5 +1,5 @@
 <h1 align="center">Greetings, my name is Steven</h1>
-<h3 align="center">I am currently a IT Help Desk Support Analyst with three years experience and I also hold an Associates in Software Development.</h3>
+<h3 align="center">Currently IT Helpdesk Support Analyst. Aspiring Software Developer.</h3>
 
 - 🔭 I’m currently working on **building my programming and technical skills.**
 
